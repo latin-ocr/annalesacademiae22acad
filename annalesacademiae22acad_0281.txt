@@ -1,0 +1,62 @@
+Α
+εἷς
+υ
+
+V = 30 ν’.
+vV¹ 2: 30 r'.
+V² Ξ 30 γ’.
+V³ ,τ’ 30 r³.
+V⁴ ε.- 30 νὴ
+ct generatim Vn ε.- 30 r”.
+
+igitur log. V„ = log. 30 -Ι- n log. r.
+Haec fi ita essent logarithmi virium elasticarum
+procederent ratione arithmetica, cujus ratio es-
+set = log. r. Sed rnon est constans, cum ratio
+decrescat, decrescit igitur et log. r, represente-
+mus hoc decrementum per seriem hujus formae
+
+-an÷bn²÷c⁷a³÷...·.eterit
+log. V„=log. 30 -Ι- an -ί- bn² -Ι- cn³ ψ...
+ᾗ Hae constantes a, b, c etc., facile determi-
+
+nantur, per sequentes eonditiones ex tabula pe-
+titas. Si·
+
+Ι » 72:25 Vn
+
+11‚250.
+
+Ι , ,72 τ’.. 50 V„ τ..- 3,5οο.
+72 z 75 V¹¹ ,τ 0‚910.
+
+¹ unde habentur sequentes aequationes
+
+·10g. 11,250 - log. 30 = 25 a -Ι- 625 b -Ι- 15625 c
+⁶ log. 3‚500 - log. 30 z 50 a -Ι- 2500 b -Ι- 125000 c
+log. 0‚910 — log. 30 z: 75 a «Ι- 5625 b -Ι- 421875 c
+i. e. - 0‚4259687 ·:·.· 25 a -Ι- 625 b -Ι- 15625 c
+— 0‚9330532 ..“.“ 5ο a -1- 2500 b 4125000 c
+— 1‚5180799 τ. 75 a 4 5625 b -Ι- 421875 c
+
+a Ξ ·- 0201537411750
+
+b Ξ - 0‚00006743151
+
+c = -Ι- 0²00000003383'
+
+7¹.
+
+÷1
+
+ει
+
+5¹¹.
+
+l} quiss
+‘a
+
+ὴ
+
+ἰ
+
